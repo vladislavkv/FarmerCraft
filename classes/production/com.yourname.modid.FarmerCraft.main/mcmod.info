@@ -1,0 +1,16 @@
+[
+{
+  "modid": "farmercraft",
+  "name": "FarmerCraft Mod",
+  "description": "null",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["IMAGINAT10N"],
+  "credits": "Thanks you mom and dad!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
